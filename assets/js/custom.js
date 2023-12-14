@@ -1,6 +1,5 @@
-//var baseurl = window.location.origin;
-var baseurl = "http://moallim.e-invoicesaudi.com/";
-document.write('<script type="text/javascript" src="http://moallim.e-invoicesaudi.com/assets/libs/sweetalert2/sweetalert2.min.js"></script>');
+var baseurl = window.location.origin;
+document.write('<script type="text/javascript" src="https://posdemo.digihawkglobal.com/assets/libs/sweetalert2/sweetalert2.min.js"></script>');
 window.retuen_data_ajax = null;
 
 
