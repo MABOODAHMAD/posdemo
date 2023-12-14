@@ -1,8 +1,6 @@
 var baseurl = window.location.origin;
 document.write('<script type="text/javascript" src="https://posdemo.digihawkglobal.com/assets/libs/sweetalert2/sweetalert2.min.js"></script>');
 window.retuen_data_ajax = null;
-
-
 // Make Sure SW are supporated
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
